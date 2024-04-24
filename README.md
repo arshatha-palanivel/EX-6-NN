@@ -62,13 +62,17 @@ print(classification_rep)
 ### Output:
 
 
+
 ![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/03dbabd7-973b-48f4-8b0a-bb3a8cf74055)
+
 
 
 ![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/626a8d72-88d7-4301-a725-2ae828d95827)
 
 
+
 ![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/7beae42b-2d37-4377-adf8-7adf5e825893)
+
 
 
 ### Results:
