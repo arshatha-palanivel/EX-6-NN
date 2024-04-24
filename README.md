@@ -61,14 +61,9 @@ print(classification_rep)
 ```
 ### Output:
 
+![Screenshot 2024-04-24 161110](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/19cd99e0-9438-4e56-bf3b-6c34458e8d20)
 
-
-![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/03dbabd7-973b-48f4-8b0a-bb3a8cf74055)
-
-
-
-![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/626a8d72-88d7-4301-a725-2ae828d95827)
-
+![Screenshot 2024-04-24 161135](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/3e62ab97-25ab-401f-aa9f-89547595ffee)
 
 
 ![image](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/7beae42b-2d37-4377-adf8-7adf5e825893)
