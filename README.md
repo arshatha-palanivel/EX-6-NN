@@ -63,6 +63,7 @@ print(classification_rep)
 
 ![Screenshot 2024-04-24 161110](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/19cd99e0-9438-4e56-bf3b-6c34458e8d20)
 
+
 ![Screenshot 2024-04-24 161135](https://github.com/arshatha-palanivel/EX-6-NN/assets/118682484/3e62ab97-25ab-401f-aa9f-89547595ffee)
 
 
