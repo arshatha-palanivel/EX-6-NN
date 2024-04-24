@@ -2,7 +2,7 @@
 ## ENTER YOUR REGISTER NO : 212222230012
 ## EX. NO.6
 ## DATE:
-# Heart attack prediction using MLP
+#  Heart attack prediction using MLP
 ### Aim:  
 To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ### Algorithm:
